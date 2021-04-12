@@ -1,9 +1,9 @@
 # WinTerminal
-WinTerminal is a custom command prompt created by: https://github.com/NoobBit. It is Mostly used for developers. Creating files, or checking the time there is tons to do with WinTerminal. WinTerminal was created so The CommandShell (and PowerShell) would not be used for developers. Cmd is not a very great program for developers and slows down progress. and Wastes A lot of time and money.
+WinTerminal is a custom command prompt created by: https://github.com/NoobBit. It is Mostly used for developers. Creating files, or checking the time there is tons to do with WinTerminal. WinTerminal was created so The CommandShell (and PowerShell) would not be a headace for developers. Cmd is not a very great program for developers and slows down progress. and Wastes A lot of time and money.
 # Installation
 1. Download The Files (Click The V Code Button)
 2. Extract The Files
-3. Open CommandShell or PowerShell and type in cd {PROGRAM LOCATION}
+3. Open CommandShell and type in cd {PROGRAM LOCATION (Usally in your downloads)}
 4. Then type in the command {terminal}
 # License
 MIT License
